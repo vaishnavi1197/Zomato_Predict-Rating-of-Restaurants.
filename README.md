@@ -1,4 +1,4 @@
-# Predict-Rating-of-Restaurants.
+# Zomato Predict-Rating-of-Restaurants.
 
 You can find the dataset as .xlsx file or download it from kaggle. 
 
